@@ -1,0 +1,47 @@
+
+.one {
+  background-color: gray;
+  display: flex;
+  gap: 20px;
+}
+
+.one p {
+  margin-left: 200px;
+}
+
+.one input {
+  margin-left: 300px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.one button {
+  margin-left: 20px;
+   margin-bottom: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.two {
+  width: 100px;
+  height:100px;
+  background-color: aqua;
+  margin-right: 20px;
+  border: 5px double pink;
+  display: inline-block;
+}
+.three {
+  width: 100px;
+  height:100px;
+  background-color: rgb(25, 148, 101);
+ margin-right: 20px;
+  border: 5px double pink;
+  display: inline-block;
+}
+.four {
+  width: 100px;
+  height:100px;
+  background-color: rgb(205, 199, 15);
+  
+  border: 5px double pink;
+  display: inline-block;
+}
